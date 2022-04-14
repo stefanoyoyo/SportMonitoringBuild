@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "Homepage",
+        "url" : "menu/homepage",
+        "component": "homepageComponent"
+    },
+    {
+        "name" : "Register training",
+        "url" : "menu/register-training",
+        "component": "RegisterTrainingComponent"
+    },
+    {
+        "name" : "Report",
+        "url" : "menu/report",
+        "component": null
+    },
+    {
+        "name" : "Register eaten food",
+        "url" : "",
+        "component": null
+    },
+    {
+        "name" : "Gallery",
+        "url" : "menu/gallery",
+        "component": null
+    }  
+]
